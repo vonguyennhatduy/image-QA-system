@@ -2,6 +2,9 @@
 
 An AI-powered web application built with **Streamlit**, **LangChain**, and **Ollama**. This project uses a ReAct Agent to analyze uploaded images through specialized tools like Image Captioning and Object Detection.
 
+<img width="790" height="849" alt="Screenshot 2026-04-13 145626" src="https://github.com/user-attachments/assets/a04ba293-01e0-49b1-8fe9-30ad904265a6" />
+
+
 ## 🚀 Features
 
 - **Interactive UI**: Upload images (JPG, PNG) and chat with them in real-time.
